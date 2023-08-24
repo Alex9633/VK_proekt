@@ -7,7 +7,7 @@
 
 https://www.crazygames.com/game/worlds-hardest-game<br/>
 https://www.coolmathgames.com/0-worlds-hardest-game
-<br  />
+<br   />
 
 ### Решение на проблемот
 По стартувањето на играта (GameForm) се создава нова сцена за секое ниво со соодветните податоци (играч - позиција; граници - позиции и големини; позадина за нивото позиции и големини; цел и старт - позиции и големини; непријатели - позиции, типови и брзини; парички - позиции; вкупен број на deaths).<br/>
@@ -55,23 +55,23 @@ public class Player
 <br  />
 
 ### Screenshots и упатство
-Main Menu:
+Main Menu:<br/>
 ![1](https://github.com/Alex9633/WorldsHardestGame/assets/120327803/60c4de62-e85c-4cc3-a428-ea72c7093682)
 
-<br/>Instructions:
+<br />Instructions:<br/>
 ![2](https://github.com/Alex9633/WorldsHardestGame/assets/120327803/1ea871e3-ca60-4497-a417-555dc665738c)
 
-<br/>Level Select:
+<br />Level Select:<br/>
 ![3](https://github.com/Alex9633/WorldsHardestGame/assets/120327803/3302145a-824d-48db-9948-5c0b3fc89e77)
 
-<br/>Завршен екран:
+<br />Завршен екран:<br/>
 ![4](https://github.com/Alex9633/WorldsHardestGame/assets/120327803/fb9e9cca-e38b-4edf-ada4-e469055c3d66)
 
-<br/>Слики од gameplay:
+<br />Слики од gameplay:
 ![5](https://github.com/Alex9633/WorldsHardestGame/assets/120327803/1fb2b7fb-11cb-4204-85f3-3da3da00d38f)
 ![6](https://github.com/Alex9633/WorldsHardestGame/assets/120327803/0786164c-9393-4e83-b3e6-2aa033704df0)
 
-<br/>**Упатство:**<br/>
+<br />**Упатство:**<br/>
 Многу едноставна игра, вие сте црвената коцка, треба да ги соберете сите парички (жолти кругови) и избегнете плавите кругови. Кога ќе ги соберете сите парички и допрете до целта, ќе продолжите на наредно ниво од вкупно 6. Се движите со стрелките. Ако допрете плав круг се ресетира нивото и deaths бројачот се зголемува за 1. Играта ви ги брои deaths и вкупното време додека поминете ниво 6.
 <ul>
   <li>Main Menu: Play game -> Instructions Window;  Level Select -> Level Select Window;  Quit -> гаси апликацијата</li>
