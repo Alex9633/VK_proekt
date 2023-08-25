@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\bin\Debug\World's Hardest Game.exe.config
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\bin\Debug\World's Hardest Game.exe
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\bin\Debug\World's Hardest Game.pdb
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World_s_Hardest_Game.MainMenu.resources
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World_s_Hardest_Game.Instructions.resources
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World_s_Hardest_Game.Properties.Resources.resources
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World's Hardest Game.exe
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World's Hardest Game.pdb
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World_s_Hardest_Game.GameForm.resources
+C:\Users\Acer\Desktop\Vezbi i Zadaci\Визуелно Програмирање\ispit juni\moi resenija\World's Hardest Game\obj\Debug\World_s_Hardest_Game.Form2.resources
